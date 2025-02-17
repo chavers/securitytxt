@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 #[cfg(not(feature = "no-entrypoint"))]
 use  solana_security_txt::security_txt;
 
-declare_id!("5HZ5C2TDCv7Wy4Uxqy4C8QMJ21kK1ZVkrALUyZzmGezs");
+declare_id!("798shHqbnsSvY6odSdQJXaV2UEf1pmcBE7jsWyBV7Pc4");
 
 #[program]
 pub mod securitytxt {

@@ -8,6 +8,8 @@ skip-lint = false
 securitytxt = "5HZ5C2TDCv7Wy4Uxqy4C8QMJ21kK1ZVkrALUyZzmGezs"
 [programs.devnet]
 securitytxt = "5HZ5C2TDCv7Wy4Uxqy4C8QMJ21kK1ZVkrALUyZzmGezs"
+[programs.mainnet]
+securitytxt = "798shHqbnsSvY6odSdQJXaV2UEf1pmcBE7jsWyBV7Pc4"
 
 [registry]
 url = "https://api.apr.dev"
