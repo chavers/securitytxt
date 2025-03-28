@@ -15,8 +15,8 @@ securitytxt = "798shHqbnsSvY6odSdQJXaV2UEf1pmcBE7jsWyBV7Pc4"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
-wallet = "~/solana/wallet/chat/info.txt"
+cluster = "mainnet"
+wallet = "/home/default/.config/solana/id.json"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

@@ -9,7 +9,7 @@ pub mod securitytxt {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        msg!("Greetings from: {:?}", ctx.program_id);
+        msg!("BIG Greetings from: {:?}", ctx.program_id);
         Ok(())
     }
 
